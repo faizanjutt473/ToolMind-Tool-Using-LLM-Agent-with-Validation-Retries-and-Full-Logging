@@ -1,0 +1,5 @@
+Company: Varolline Demo Pvt Ltd
+Head office: Islamabad. Branch offices: Lahore and Karachi.
+Meeting note: Next quarter expansion planned in Faisalabad.
+Tax rate used for internal budgeting: 18% GST.
+Annual budget: 5,000,000 PKR.
