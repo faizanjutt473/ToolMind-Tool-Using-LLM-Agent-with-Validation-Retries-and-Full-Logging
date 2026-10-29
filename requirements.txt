@@ -1,0 +1,9 @@
+google-genai
+pydantic
+python-dotenv
+ddgs
+simpleeval
+pypdf
+tenacity
+rich
+pytest
